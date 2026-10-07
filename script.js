@@ -91,3 +91,4 @@ clearAllBtn.addEventListener('click', () => {
 });
 loadNotes();
 render();
+// validation and delete added
